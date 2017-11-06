@@ -13,8 +13,6 @@ http://projector.pconline.com.cn/special/0912/1989522.html
 
     前投（正投）
     背投
-    
-    
 
 ### 色轮
     
