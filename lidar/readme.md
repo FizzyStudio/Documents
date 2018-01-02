@@ -1,3 +1,3 @@
 # contents
 
-* XY2-100协议 -- 一种激光扫描振镜控制协议
+* [XY2-100协议 -- 一种激光扫描振镜控制协议](https://github.com/FizzyStudio/Documents/blob/master/lidar/XY2-100.md)
