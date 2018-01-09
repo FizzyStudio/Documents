@@ -14,17 +14,14 @@
 
 谐振腔的作用是选择频率一定、方向一致的光作最优先的放大，而把其他频率和方向的光加以抑制。
 
-### 分类
+### 按工作介质分类
 
+* 气体激光器:        He-Ne激光器, CO2激光器
+* 固体激光器:        YAG激光器
+* 半导体激光器：     电注入式，光泵式和高能电子束激励式
 * 光纤激光器
-* CO2激光器
-* 固体激光器
-* 半导体激光器
-
-#### 光纤激光器
-
-
-
+* 染料激光器
+* 自由电子激光器
 
 ### 厂商
 
@@ -39,12 +36,9 @@
 * 创鑫
 
 ### 参考
-
-    http://aolingcnc.com/article-771.html
-    http://laser.ofweek.com/2015-04/ART-240002-8500-28947486.html
-    https://github.com/FizzyStudio/Documents/blob/master/lidar/reference/%E5%B8%B8%E7%94%A8%E6%BF%80%E5%85%89%E5%99%A8%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.ppt
     
-
-
-
-
+    http://auto.163.com/17/0213/07/CD4TEMAT000884MM.html
+    http://laser.ofweek.com/2015-04/ART-240002-8500-28947486.html
+    http://laser.ofweek.com/2014-10/ART-240002-11000-28895724.html
+    http://aolingcnc.com/article-771.html
+    https://github.com/FizzyStudio/Documents/blob/master/lidar/reference/%E5%B8%B8%E7%94%A8%E6%BF%80%E5%85%89%E5%99%A8%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.ppt
