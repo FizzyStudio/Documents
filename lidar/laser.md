@@ -36,9 +36,8 @@
 * 创鑫
 
 ### 参考
-    
     http://auto.163.com/17/0213/07/CD4TEMAT000884MM.html
-    http://laser.ofweek.com/2015-04/ART-240002-8500-28947486.html
-    http://laser.ofweek.com/2014-10/ART-240002-11000-28895724.html
+    http://laser.ofweek.com/2015-04/ART-240002-8500-28947486.html
+    http://laser.ofweek.com/2014-10/ART-240002-11000-28895724.html
     http://aolingcnc.com/article-771.html
     https://github.com/FizzyStudio/Documents/blob/master/lidar/reference/%E5%B8%B8%E7%94%A8%E6%BF%80%E5%85%89%E5%99%A8%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.ppt
